@@ -1,0 +1,12 @@
+﻿  stdafx.cpp
+  Manage.cpp
+  MyThing.cpp
+MyThing.cpp(43): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  Welcome.cpp
+  Win32小项目.cpp
+Win32小项目.cpp(167): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Generating code
+  All 21 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Win32小项目.vcxproj -> C:\Users\19164\Desktop\MyLove\x64\Release\Win32小项目.exe
+  Win32小项目.vcxproj -> C:\Users\19164\Desktop\MyLove\x64\Release\Win32小项目.pdb (Full PDB)
